@@ -12,6 +12,8 @@
 //Swap -> Função de troca simples de indices, basta inserir a referência de lista em conjunto ...
 // ... com os indices que serão trocados.
 
+// Free_Use
+
 void swap(int *v, int i1, int i2){
     int aux = v[i1];
     v[i1] = v[i2];
